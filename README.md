@@ -1,7 +1,7 @@
 ### Olá sou Mateus Cizeski 👋
 
 - 🌱 Estudando JavaScript
-- 👯 Em busca de ser programador
+- 👯 Programador front-end
 - 📫 mateuscizeski@gmail.com
 
 <div align="center">
