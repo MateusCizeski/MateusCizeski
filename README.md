@@ -9,7 +9,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/mateus-cizeski)](www.linkedin.com/in/mateus-cizeski)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuscizeski@gmail.com)](mailto:mateuscizeski@gmail.com)
-  
+   
 <a  href="https://github.com/anuraghazra/github-readme-stats">
   <img height=170 align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mateuscizeski&theme=gruvbox&hide_border=false" />
 </a>
