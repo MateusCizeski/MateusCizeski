@@ -4,7 +4,7 @@
 - Currently studying Systems Analysis and Development.
 - front-end developer, but open to learning new technologies.
 - Currently learning React Native
-                                
+                                 
 <h1>Contact me</h1>
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/mateus-cizeski)](www.linkedin.com/in/mateus-cizeski)
