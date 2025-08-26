@@ -1,13 +1,15 @@
 <h1>Hi there 👋</h1>             
             
-- My name is ateus Cizeski and I have 24yo.      
-- Currently studying Systems Analysis and Development.
-- front-end developer, but open to learning new technologies.
-- Currently learning React Native   
+- My name is **Mateus Cizeski**, I'm 25 years old.      
+- Graduated in **Systems Analysis and Development**.  
+- Currently working as a **.NET Backend Developer**, building APIs and services with **C#** and **.NET Core**.  
+- Experience with relational databases (**SQL Server, Oracle/PLSQL**) and software architecture (**monoliths and microservices**).  
+- I also have previous experience as a **Fullstack Developer**, working with **ReactJS** and **ExtJS**.  
+- Always curious and motivated to learn new technologies and improve my skills.  
                                           
 <h1>Contact me</h1>  
      
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/mateus-cizeski)](www.linkedin.com/in/mateus-cizeski)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/mateus-cizeski)](www.linkedin.com/in/mateus-cizeski)  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuscizeski@gmail.com)](mailto:mateuscizeski@gmail.com)
    
 <a  href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,19 +22,30 @@
 </br>
 </br>
 
-<h2>I love development, but I'll love it even more if it's: </h2>
+<h2>💜 I love development, especially when it's with: </h2>
 
 <div align="left">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />    
-<img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
+</div>
+
+</br>
+
+<h2>🛠️ Other experiences (Fullstack background): </h2>
+<div align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React_Native-414141?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
 </div>
+
+</br>
 
 <h1>Profile Visitor Count</h1>
 <p align="center">
@@ -41,4 +54,3 @@
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
- 
