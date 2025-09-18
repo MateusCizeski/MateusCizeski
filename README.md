@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>             
             
-- My name is **Mateus Cizeski**, I'm 25 years old.      
+- My name is **Mateus Cizeski**, I'm 25 years old.       
 - Graduated in **Systems Analysis and Development**.  
 - Currently working as a **.NET Backend Developer**, building APIs and services with **C#** and **.NET Core**.  
 - Experience with relational databases (**SQL Server, Oracle/PLSQL**) and software architecture (**monoliths and microservices**).  
