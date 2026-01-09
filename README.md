@@ -3,7 +3,7 @@
 - My name is **Mateus Cizeski**, I'm 25 years old.       
 - Graduated in **Systems Analysis and Development**.   
 - Currently working as a **.NET Backend Developer**, building APIs and services with **C#** and **.NET Core**.  
-- Experience with relational databases (**SQL Server, Oracle/PLSQL**) and software architecture (**monoliths and microservices**).    
+- Experience with relational databases (**SQL Server, Oracle/PLSQL**) and software architecture (**monoliths and microservices**).     
 - I also have previous experience as a **Fullstack Developer**, working with **ReactJS** and **ExtJS**.    
 - Always curious and motivated to learn new technologies and improve my skills.  
                                           
