@@ -1,10 +1,11 @@
 <h1>Mateus Cizeski Kogl</h1>
-<h3>Fullstack Developer · .NET & React · Open Source</h3>
+<h3>Software Engineer · C# / .NET · ASP.NET Core · Oracle & SQL Server</h3>
 
-- 🏢 Working at **Useall Software** as a Fullstack Developer (C# .NET Core + React/ExtJs)
-- 📦 Author of **[dotnet-api-base](https://github.com/mateuscizeski/dotnet-api-base)** — a modular ASP.NET Core framework published on NuGet with generic CRUD, dynamic filters via expression trees, soft delete and structured logging
-- 🎓 Graduated in **Systems Analysis and Development** — UNICESUMAR (2025)
-- 🌎 Based in Criciúma, Santa Catarina, Brazil
+- 🏢 Software Engineer at **Useall Software**, working on the tax and accounting modules of a large ERP (ASP.NET Core, Oracle, React)
+- ⚡ Cut an invoice-editing operation from over 2 minutes to about 2 seconds by fixing an Entity Framework Core cartesian explosion
+- 🧩 Built a configuration-driven report manager that launched with 22 reports and grew to 33 in a month, without changing the issuing flow
+- 🎓 Systems Analysis and Development (Tecnólogo, associate degree) — UNICESUMAR, 2025
+- 🌎 Based in Criciúma, Brazil · open to remote and relocation opportunities
 
 ---
 
@@ -16,46 +17,48 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Databases**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Front-end**
 
 ![React](https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-414141?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Banco de dados**
+**Tools**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+<h2>🚧 Currently working on</h2>
+
+- Upgrading my open-source .NET library to .NET 10, with integration tests and CI on GitHub Actions
+- Rebuilding a sales commission system with ASP.NET Core, Entity Framework Core and Docker, in English, with authentication and tests
+
+---
+
+<!--
+Uncomment when dotnet-api-base v3 is published, and review each claim against the code first.
 
 <h2>📦 Featured Project</h2>
 
 ### [dotnet-api-base](https://github.com/mateuscizeski/dotnet-api-base)
-> Modular ASP.NET Core framework published as 5 independent NuGet packages.
-> Generic CRUD · Dynamic filters via expression trees · Soft delete · Async-first · 33 unit tests
+> Open-source ASP.NET Core library that turns dynamic filters, sorting and field selection into SQL through expression trees.
+> Dynamic filters · Dynamic projection · Soft delete · Integration tests · CI
 
 [![NuGet](https://img.shields.io/nuget/v/ApiBase.Domain?label=ApiBase.Domain&style=flat-square)](https://www.nuget.org/packages/ApiBase.Domain)
 [![NuGet](https://img.shields.io/nuget/v/ApiBase.Application?label=ApiBase.Application&style=flat-square)](https://www.nuget.org/packages/ApiBase.Application)
 [![NuGet](https://img.shields.io/nuget/v/ApiBase.Controller?label=ApiBase.Controller&style=flat-square)](https://www.nuget.org/packages/ApiBase.Controller)
 
 ---
-
-<h2>📊 GitHub Stats</h2>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mateuscizeski&theme=gruvbox&hide_border=false" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" width=370 src="https://github-readme-stats.vercel.app/api?username=mateuscizeski&show_icons=true&hide_border=false&theme=gruvbox" />
-</a>
-
----
+-->
 
 <h2>📬 Contact</h2>
 
